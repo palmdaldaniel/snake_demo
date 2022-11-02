@@ -1,0 +1,29 @@
+body {
+  width: 500px;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.058);
+}
+.wrapper {
+  padding-top: 100px;
+  display: grid;
+  grid-template-columns: repeat(20, 25px);
+  overflow: hidden;
+}
+
+.column {
+  height: 25px;
+  background-color: whitesmoke;
+  border: 0.2px solid rgba(0, 0, 0, 0.17);
+}
+
+.block {
+  height: 25px;
+  width: 25px;
+  background-color: bisque;
+}
+
+.snake {
+  height: 25px;
+  width: 25px;
+  background-color: red;
+}
