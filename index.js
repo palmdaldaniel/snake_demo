@@ -21,6 +21,11 @@ function hello2() {
 function hello4() {
     const hello = "©"
 }
+function hello2_1() {
+    const hello = "©"
+}
+
+
 
 
 // const haha = "jkfndsk" //
