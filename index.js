@@ -9,3 +9,9 @@ function hello() {
     const hello = "©"
 }
 const fksd = "nfdskaf"
+
+
+
+function hello2() {
+    const hello = "©"
+}
