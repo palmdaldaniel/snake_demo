@@ -38,3 +38,6 @@ function hello3() {
 function hello5() {
     const hello = "©"
 }
+function hello6() {
+    const hello = "©"
+}
