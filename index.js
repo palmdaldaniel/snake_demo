@@ -15,3 +15,9 @@ const fksd = "nfdskaf"
 function hello2() {
     const hello = "©"
 }
+
+
+
+// const haha = "jkfndsk"
+// const bullshiiiit = "fksjnafa"
+// const bulkndfa = "nfksaf"
