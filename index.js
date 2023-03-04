@@ -26,3 +26,7 @@ function hello4() {
 // const haha = "jkfndsk" //
 // const bullshiiiit = "fksjnafa" //
 // const bulkndfa = "nfksaf" //
+
+function hello3() {
+    const hello = "©"
+}
