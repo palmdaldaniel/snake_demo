@@ -8,3 +8,4 @@ const bulkndfa = "nfksaf"
 function hello() {
     const hello = "©"
 }
+const fksd = "nfdskaf"
