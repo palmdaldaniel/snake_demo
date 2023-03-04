@@ -41,3 +41,5 @@ function hello5() {
 function hello6() {
     const hello = "©"
 }
+function hello7() { }
+function hello8() { }
